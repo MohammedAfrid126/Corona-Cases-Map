@@ -33,5 +33,3 @@ Start the server
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `YOUR_ACCESS_TOKEN_HERE` | `string` | **Required**. MapBox API Key |
-
-
